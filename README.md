@@ -4,5 +4,7 @@ Question=[https://github.com/Hruthikaveldi/hackathon_T186/blob/main/Question-T18
 
 Code=[https://github.com/Hruthikaveldi/hackathon_T186/blob/main/hackathon_T186.ipynb]
 
-Screen Recording=[https://github.com/Hruthikaveldi/hackathon_T186/blob/main/Screen%20Recording%202025-04-05%20030039.mp4]
+Screen Recording(output case-1)=[https://github.com/Hruthikaveldi/hackathon_T186/blob/main/Hackathon_genuine.mp4]
+
+Screen Recording(output case-2)=[https://github.com/Hruthikaveldi/hackathon_T186/blob/main/Hackathon_fake%20.mp4]
 
